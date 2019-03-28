@@ -81,14 +81,14 @@ var PAYLOAD = {
           }
         ],
         "shipping_address": {
-          "recipient_name": "Brian Robinson",
-          "line1": "4th Floor",
-          "line2": "Unit #34",
-          "city": "San Jose",
-          "country_code": "US",
-          "postal_code": "95131",
-          "phone": "011862212345678",
-          "state": "CA"
+          "recipient_name": "Harish Annam",
+          "line1": "Futura IT Park, 334",
+          "line2": "Elcot Sez, Rajiv Gandhi Salai",
+          "city": "Chennai",
+          "country_code": "IN",
+          "postal_code": "600119",
+          "phone": "919882323882",
+          "state": "TN"
         }
       }
     }
