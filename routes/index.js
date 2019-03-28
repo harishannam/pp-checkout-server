@@ -82,8 +82,8 @@ var PAYLOAD = {
         ],
         "shipping_address": {
           "recipient_name": "Harish Annam",
-          "line1": "Futura IT Park, 334",
-          "line2": "Elcot Sez, Rajiv Gandhi Salai",
+          "line1": "334",
+          "line2": "Rajiv Gandhi Salai",
           "city": "Chennai",
           "country_code": "IN",
           "postal_code": "600119",
