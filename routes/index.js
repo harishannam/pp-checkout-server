@@ -42,7 +42,7 @@ var PAYLOAD = {
     {
       "amount": {
         "total": "30.11",
-        "currency": "USD",
+        "currency": "INR",
         "details": {
           "subtotal": "30.00",
           "tax": "0.07",
@@ -68,7 +68,7 @@ var PAYLOAD = {
             "price": "3",
             "tax": "0.01",
             "sku": "1",
-            "currency": "USD"
+            "currency": "INR"
           },
           {
             "name": "handbag",
@@ -77,7 +77,7 @@ var PAYLOAD = {
             "price": "15",
             "tax": "0.02",
             "sku": "product34",
-            "currency": "USD"
+            "currency": "INR"
           }
         ],
         "shipping_address": {
