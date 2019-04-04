@@ -17,6 +17,10 @@ router.get('/thankyou', function(req, res, next) {
   res.render('thankyou');
 });
 
+router.get('/ios-xo', function(req, res, next) {
+	res.render('ios-xo', { title: 'FernsNPetals' });
+});
+
 
 
 var CONFIG =  {
