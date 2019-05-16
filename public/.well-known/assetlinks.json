@@ -6,4 +6,12 @@
     "sha256_cert_fingerprints":
     ["17:77:71:B6:CA:C8:CC:20:DF:35:A4:18:AE:CD:D0:A9:FD:5D:14:59:CB:8E:F8:EE:18:D0:08:38:96:2E:F9:E4"]
   }
+}, {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.nativecheckouttest",
+    "sha256_cert_fingerprints":
+    ["E2:D4:8E:3A:0D:0F:7B:5E:E4:D0:F6:79:97:95:6E:96:97:11:CD:6A:CA:C6:5D:BE:8C:A1:2D:0D:4B:A8:8F:2B"]
+  }
 }]
